@@ -1,6 +1,6 @@
 # Rainbow agent for Playing 2048 with [ReLAx](https://github.com/nslyubaykin/relax)
 
-https://user-images.githubusercontent.com/67604207/188275906-2e3b964b-908b-4d0f-9f03-4297c031e3ac.mp4
+https://user-images.githubusercontent.com/67604207/188276886-bc7987c0-65fe-4eba-a119-7a1b7d160f64.mp4
 
 This repository contains an [implementation](https://github.com/nslyubaykin/rainbow_for_2048/blob/master/rainbow_2048.ipynb) of 
 2048 game which may be played manually in Jupyter and a custom Gym environment written on top of it. 
